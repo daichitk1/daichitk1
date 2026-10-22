@@ -1,6 +1,7 @@
 # Asset sources
 
 - `profile-header.webp`: generated for this profile, then encoded as WebP. Conceptual ink landscape; it does not depict a claimed real location.
+- `profile-header-mobile.webp`: mobile composition of the same artwork; removes the small subtitle and uses a 2:1 aspect ratio below 640px.
 - `generative-portfolio.png`: existing public screenshot, https://react-portfolio.cat-and-mountain.com/images/generative-portfolio.png
 - `experience-note.webp`: existing public screenshot, https://react-portfolio.cat-and-mountain.com/images/experience-note-hero.webp
 - `icons/*.svg`: [Simple Icons](https://github.com/simple-icons/simple-icons), with brand colors applied to the supplied paths. License: [CC0 1.0](icons/LICENSE.md). Brand names and logos belong to their respective owners.
