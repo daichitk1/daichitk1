@@ -46,6 +46,7 @@ ChatGPTの作業結果を整理して表示するMCP App。Auth0のOAuthで接�
 - [Hono・AuthZEN・Cerbosで認可の役割を分ける](https://zenn.dev/tk_1/articles/32f7aa975066af)
 
 ## Stack
+
 <p>
   <img src="./assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="28" height="28">&nbsp;&nbsp;
   <img src="./assets/icons/react.svg" alt="React" title="React" width="28" height="28">&nbsp;&nbsp;
