@@ -66,8 +66,8 @@ ChatGPTの作業結果を、結果・判断・確認状況に分けて表示す�
 
 <a href="https://github.com/daichitk1?tab=repositories">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=daichitk1&amp;hide_rank=true&amp;hide=stars,issues,contribs&amp;show_icons=true&amp;count_private=false&amp;include_all_commits=false&amp;card_width=320&amp;line_height=28&amp;border_radius=0&amp;custom_title=Public%20GitHub%20activity&amp;bg_color=0d1117&amp;title_color=d9e6df&amp;text_color=abbab4&amp;icon_color=75a995&amp;border_color=30363d">
-    <img src="https://github-stats-extended.vercel.app/api?username=daichitk1&amp;hide_rank=true&amp;hide=stars,issues,contribs&amp;show_icons=true&amp;count_private=false&amp;include_all_commits=false&amp;card_width=320&amp;line_height=28&amp;border_radius=0&amp;custom_title=Public%20GitHub%20activity&amp;bg_color=ffffff&amp;title_color=284f47&amp;text_color=434b4a&amp;icon_color=39766a&amp;border_color=d8dee4" alt="公開データから集計したGitHubのコミット・プルリクエスト数" width="320" align="top">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=daichitk1&amp;hide_rank=true&amp;hide=stars%2Cissues%2Ccontribs&amp;show_icons=true&amp;count_private=false&amp;include_all_commits=false&amp;card_width=320&amp;line_height=28&amp;border_radius=0&amp;custom_title=Public%20GitHub%20activity&amp;bg_color=0d1117&amp;title_color=d9e6df&amp;text_color=abbab4&amp;icon_color=75a995&amp;border_color=30363d">
+    <img src="https://github-stats-extended.vercel.app/api?username=daichitk1&amp;hide_rank=true&amp;hide=stars%2Cissues%2Ccontribs&amp;show_icons=true&amp;count_private=false&amp;include_all_commits=false&amp;card_width=320&amp;line_height=28&amp;border_radius=0&amp;custom_title=Public%20GitHub%20activity&amp;bg_color=ffffff&amp;title_color=284f47&amp;text_color=434b4a&amp;icon_color=39766a&amp;border_color=d8dee4" alt="公開データから集計したGitHubのコミット・プルリクエスト数" width="320" align="top">
   </picture>
 </a>
 <a href="https://github.com/daichitk1?tab=repositories">
