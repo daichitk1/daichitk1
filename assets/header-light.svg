@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Daichi — Web / AI / Security</title>
+  <desc id="desc">An ink-inspired mountain ridge beside Daichi's name, with a restrained vermilion accent.</desc>
+  <rect width="1200" height="280" fill="#f5f2ea"/>
+  <path d="M60 56h34" stroke="#ad4939" stroke-width="3"/>
+  <text x="109" y="61" fill="#606963" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" letter-spacing="3">WEB / AI / SECURITY</text>
+  <text x="56" y="176" fill="#262b2a" font-family="Georgia, 'Times New Roman', serif" font-size="100" letter-spacing="8">DAICHI</text>
+  <text x="62" y="226" fill="#606963" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" letter-spacing="1.5">React · TypeScript · Hono</text>
+  <g fill="#262b2a">
+    <path d="M730 210L817 117L839 130L923 54L950 77L1109 211L1052 180L936 86L921 77L842 149L818 137L756 202Z" opacity=".87"/>
+    <path d="M806 211L859 155L881 166L934 113L1005 179L943 137L931 133L883 185L860 174L827 206Z" opacity=".16"/>
+    <path d="M697 222Q891 209 1128 222L1133 226Q901 220 697 228Z" opacity=".35"/>
+  </g>
+  <rect x="1090" y="59" width="32" height="32" rx="1" fill="#ad4939"/>
+  <path d="M1100 67v16h4c10 0 10-16 0-16z" fill="none" stroke="#f5f2ea" stroke-width="2"/>
+</svg>
